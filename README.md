@@ -29,7 +29,7 @@ A browser automation tool that records your manual interactions on a webpage (cl
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/web-action-recorder.git
+   git clone https://github.com/prakharVirus1289/scrappingAutomation.git
    cd web-action-recorder
    ```
 
@@ -42,7 +42,7 @@ A browser automation tool that records your manual interactions on a webpage (cl
 3. **Run the script:**
 
    ```bash
-   node record.js
+   node scrappingAutomation.js
    ```
 
 4. **Provide a URL** when prompted and interact with the page. Use commands below for more control.
